@@ -1,0 +1,50 @@
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 100px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.building {
+  color: white;
+  Button: rgb(240 146 51);  
+  Background: rgb(32 101 136);
+  Search-Bar-background: rgb(31, 82, 111);
+  }
+
+.collaboration {
+  padding: 120px;
+  margin: 0 auto;
+  color: white;
+  Background: rgb(39 53 71);
+  Button: rgb(203 56, 55); 
+  }
+
+."what-npm" {
+  background-size: cover;
+  button: rgb(49, 68, 88);
+  color:white
+  }
+
+.what-npm-logo {
+  margin: 0 auto
+  text-align: center;
+  
+}
